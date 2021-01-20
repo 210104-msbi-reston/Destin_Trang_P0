@@ -13,3 +13,18 @@ C:\Users\desti\Revature Code\Project0\StoreDatabase\obj\Debug\net5.0\StoreDataba
 C:\Users\desti\Revature Code\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.runtimeconfig.json
 C:\Users\desti\Revature Code\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.runtimeconfig.dev.json
 C:\Users\desti\Revature Code\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.genruntimeconfig.cache
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.deps.json
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.runtimeconfig.json
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.runtimeconfig.dev.json
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.dll
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\ref\StoreDatabase.dll
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\bin\Debug\net5.0\StoreDatabase.pdb
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.csprojAssemblyReference.cache
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.AssemblyInfoInputs.cache
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.AssemblyInfo.cs
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.csproj.CoreCompileInputs.cache
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.dll
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\ref\StoreDatabase.dll
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.pdb
+C:\Users\desti\Documents\GitHub\Destin_Trang_P0\Project0\StoreDatabase\obj\Debug\net5.0\StoreDatabase.genruntimeconfig.cache

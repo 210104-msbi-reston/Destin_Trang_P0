@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zk9Hq7ntPezjrgBV5Cux/oh+775dQMCtRb2LbPXVW20QFMKgyRBLjGmG1W/xfYdp9KCQSPO8nXj5NzPjdL2Yjw==",
+  "dgSpecHash": "KWWqunxfqHS93cvchLGJuDcAt5dXuD0Xhfv5VLHZxGhU1s4bWGpaYAjzbj0PC0Cay5QKaBjzNSYW2IFYGVFkew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desti\\Revature Code\\Project0\\StoreDatabase\\StoreDatabase.csproj",
+  "projectFilePath": "C:\\Users\\desti\\Documents\\GitHub\\Destin_Trang_P0\\Project0\\StoreDatabase\\StoreDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\desti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

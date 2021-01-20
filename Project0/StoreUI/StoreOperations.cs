@@ -6,10 +6,22 @@ using StoreDatabase.Models;
 public class StoreOperations {
 
 
-    public void PageBreak () {
-        Console.WriteLine("\n");
-        Console.WriteLine("=========================================================");
-        Console.WriteLine("\n");
+
+    public void PageBreak (int l) {
+        for (int i = 0; i < l; i++) {
+            Console.WriteLine("\n");
+        }
+    }
+
+
+    //Simple function to check if password is correct
+    public bool ValidatePassword (string pw) {
+        if (pw == "RevatureIsAwesome") {
+            return true;
+        }
+        else {
+            return false;
+        }
     }
 
 
@@ -75,6 +87,7 @@ public class StoreOperations {
 
     public void DisplayCustomerOrderHistory (DatabaseOperations d) {
 
+        PageBreak(1);
         Console.WriteLine ("To view your order history, log in with your email");
         string e = Console.ReadLine();
 
@@ -84,6 +97,7 @@ public class StoreOperations {
             return;
         }
 
+        PageBreak(1);
         List<Order> storeOrders = d.GetOrders(e);
         foreach (Order o in storeOrders) {
             decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -104,6 +118,7 @@ public class StoreOperations {
             int input = GetNumericalInput (0, 4);
 
             if (input == 1) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersOldToNew(e);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -117,6 +132,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 2) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersNewToOld(e);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -130,6 +146,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 3) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersLowToHigh(e);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -143,6 +160,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 4) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersHighToLow(e);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -161,6 +179,7 @@ public class StoreOperations {
     }
     public void DisplayStoreOrderHistory (Location s, DatabaseOperations d) {
 
+        PageBreak(2);
         List<Order> storeOrders = d.GetOrders(s);
         foreach (Order o in storeOrders) {
             decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -181,6 +200,7 @@ public class StoreOperations {
             int input = GetNumericalInput (0, 4);
 
             if (input == 1) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersOldToNew(s);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -194,6 +214,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 2) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersNewToOld(s);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -207,6 +228,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 3) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersLowToHigh(s);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -220,6 +242,7 @@ public class StoreOperations {
                 }
             }
             else if (input == 4) {
+                PageBreak(3);
                 storeOrders = d.GetOrdersHighToLow(s);
                 foreach (Order o in storeOrders) {
                     decimal price = d.GetProduct(o.productID).price * o.quantity;
@@ -255,6 +278,7 @@ public class StoreOperations {
                 i.quantity);
         }
 
+        PageBreak(1);
         Console.WriteLine("===== CART TOTAL: " + total.ToString());
         Console.WriteLine("<Enter 1 if you'd like to proceed to checkout, or 0 to return to the previous menu>");
         int input = GetNumericalInput(0, 1);
@@ -263,6 +287,8 @@ public class StoreOperations {
         Console.WriteLine("===== Please enter an email address so that we may send a confirmation and tracking number:");
         string email = Console.ReadLine();
         d.PurchaseOrder(email, c);
+        Console.WriteLine("===== Purchase confirmed! Thank you for shopping");
+        PageBreak(1);
 
     }
     
