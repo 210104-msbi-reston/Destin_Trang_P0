@@ -1,0 +1,16 @@
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.exe
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.deps.json
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.runtimeconfig.json
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.runtimeconfig.dev.json
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.dll
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\ref\storeConsoleApplication.dll
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\bin\Debug\net5.0\storeConsoleApplication.pdb
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.csprojAssemblyReference.cache
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.AssemblyInfo.cs
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.dll
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\ref\storeConsoleApplication.dll
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.pdb
+C:\Users\desti\Revature Code\Project0\storeConsoleApplication\obj\Debug\net5.0\storeConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\StoreBusinessLogic.deps.json
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\StoreBusinessLogic.dll
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\ref\StoreBusinessLogic.dll
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\StoreBusinessLogic.pdb
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.csprojAssemblyReference.cache
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.AssemblyInfo.cs
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.dll
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\ref\StoreBusinessLogic.dll
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.pdb
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\StoreDatabase.dll
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\bin\Debug\net5.0\StoreDatabase.pdb
+C:\Users\desti\Revature Code\Project0\StoreBusinessLogic\obj\Debug\net5.0\StoreBusinessLogic.csproj.CopyComplete
